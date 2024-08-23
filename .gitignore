@@ -1,0 +1,83 @@
+# .NET Core / ASP.NET Core
+*.exe
+*.dll
+*.pdb
+*.db
+*.log
+*.user
+*.lock.json
+*.ide
+*.suo
+*.userosscache
+*.userprefs
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.rsuser
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# User-specific files (Visual Studio)
+.vscode/
+.vs/
+*.user
+*.suo
+
+# DotNetUserSpecific
+.vscode/
+.vs/
+
+# Log files
+*.log
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+.nuget/
+
+# Backup & Report files
+*.bak
+*.dmp
+*.mdf
+*.ldf
+*.rdlc
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Built files
+bin/
+obj/
+out/
+**/artifacts/
+
+# Uncomment if using JetBrains Rider
+# .idea/
+
+# ASP.NET temporary files
+**/tmp/
+**/temp/
+
+# Publish
+wwwroot/node_modules/
+wwwroot/lib/
+
+# npm
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Optional
+## Ignore the published output by comment or uncommenting below as per project need
+# publish/
